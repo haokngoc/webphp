@@ -1,0 +1,18 @@
+{
+    "account_information": {
+        "username": "admin",
+        "password": "123123"
+    },
+    "settings": {
+        "ip-address": "192.168.2.31\/24",
+        "logging-method": "haonguyenaa",
+        "logging-level": "debug",
+        "wireless-mode": "station",
+        "wireless-SSID": "hao",
+        "wireless-Pass-Phrase": "varex_wireless"
+    },
+    "firmware": {
+        "filename": "upload.php",
+        "path": "uploads\/upload.php"
+    }
+}
